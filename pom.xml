@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>iot-ideas</name>
   <description>just a experiment with java8+bluetooth+react</description>
+  <modules>
+  	<module>backend</module>
+  </modules>
 </project>
